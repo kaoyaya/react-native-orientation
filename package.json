@@ -9,6 +9,7 @@
   "keywords": [
     "orientation",
     "react-native",
+    "kyy",
     "ios",
     "android"
   ],
@@ -30,12 +31,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yamill/react-native-orientation.git"
+    "url": "git+https://github.com/kaoyaya/react-native-orientation.git"
   },
   "bugs": {
     "url": "https://github.com/yamill/react-native-orientation/issues"
   },
-  "homepage": "https://github.com/yamill/react-native-orientation#readme",
+  "homepage": "https://github.com/kaoyaya/react-native-orientation.git#readme",
   "rnpm": {
     "android": {
       "packageInstance": "new OrientationPackage()"
